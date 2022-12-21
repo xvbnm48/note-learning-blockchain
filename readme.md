@@ -23,4 +23,4 @@ Selain itu, kunci asimetris juga dapat digunakan dalam proses autentikasi penggu
 
 Dengan menggunakan kunci asimetris, proses autentikasi dan transaksi di aplikasi web3 dapat dilakukan secara aman tanpa perlu membagikan kunci privasi pengguna kepada pihak ketiga.
 
-12-26-2022
+12-26-2022 ayo kita belajar blockchain
