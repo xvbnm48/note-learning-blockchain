@@ -1,0 +1,1 @@
+# Note for my journey about learning blockchain
