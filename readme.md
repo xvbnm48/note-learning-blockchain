@@ -22,3 +22,5 @@ Contoh penggunaan kunci asimetris dalam penerapan web3 adalah saat Anda ingin me
 Selain itu, kunci asimetris juga dapat digunakan dalam proses autentikasi pengguna di aplikasi web3. Saat pengguna ingin login ke aplikasi web3, ia dapat menggunakan kunci privasi miliknya sendiri untuk menandatangani pesan autentikasi yang dikirim ke server. Server dapat memverifikasi pesan tersebut dengan menggunakan kunci publik pengguna tersebut dan mengizinkan akses ke aplikasi jika pesan tersebut valid.
 
 Dengan menggunakan kunci asimetris, proses autentikasi dan transaksi di aplikasi web3 dapat dilakukan secara aman tanpa perlu membagikan kunci privasi pengguna kepada pihak ketiga.
+
+12-26-2022
