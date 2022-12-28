@@ -1,6 +1,6 @@
 # Note for my journey about learning blockchain
 
-learning from alchemy
+learning from alchemy, let's go!
 
 # Symmetric key
 Symmetric key adalah jenis kunci yang sama digunakan untuk mengenkripsi dan mendekripsi pesan atau data. Kunci simetris sering disebut juga dengan kunci rahasia atau kunci kunci tunggal karena hanya ada satu kunci yang digunakan untuk mengenkripsi dan mendekripsi data. 
